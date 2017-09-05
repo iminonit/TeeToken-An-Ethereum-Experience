@@ -1,2 +1,2 @@
 # openzeponit
-smart contract audit
+Simple Smart Contract Audit
