@@ -4,7 +4,7 @@
  
  Our Smart Contract was developed by LetzGro Solutions. Ihor Pidruchny and Andrew Zubko were brilliant partners to work with.
 
-We were excited to work with a smart contract auditor to ensure all code was at the very least ...secure. Contract code security is highly specialized work, we expected it to be expensive and are happy to say...the quote exceeded all expectations, all the way to the far side of the moon.
+We were excited to work with a smart contract auditor to ensure all code was at the very least ...secure. Contract code security is highly specialized work, we expected it to be expensive and are happy to say...all quotes exceeded expectations.
 
 So, we are not going through a contract audit that puts a medium size business like ourselves in financial strain. 
 
@@ -12,7 +12,7 @@ The quality of our T-Shirts is audited by experts with 20+ years of garment manu
 
 On to the Contract Methods:
 
-Set Locked: Allows us (inonit) to lock contract functionality to the extent that the gas price to interact with the contract is unresonably high. Why did we do this? Unforeseen circumstances could lead to such a requirement, what those circumstances are, we are yet to find out.
+Set Locked: Allows us (TeeToken/inonit) to lock contract functionality to the extent that the gas price to interact with the contract is unresonably high. Why did we do this? Unforeseen circumstances could lead to such a requirement, what those circumstances are, we are yet to find out.
 
 Add Reward: This method allows the contract owner to fund the smart contract address with the Ether reward that token holders may claim, the “Recycle Time” field denotes the timeframe in which token holders may claim the Ether reward, if some token holders dont do so in the predetermined and published timeframe, The contract owner will be able to reclaim the Ether.
 
