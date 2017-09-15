@@ -1,2 +1,3 @@
-# openzeponit
-Simple Smart Contract Audit
+# TeeToken: An Ethereum Experience
+
+Whitepaper can be found here: 
