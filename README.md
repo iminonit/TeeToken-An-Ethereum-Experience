@@ -1,6 +1,6 @@
 # TeeToken: An Ethereum Experience
 
- Our Whitepaper can be found here: 
+ Our Whitepaper can be found here: http://www.inonit.org/wp-content/uploads/2017/09/TeeToken-Whitepaper-v0.5.pdf
  
  Our Smart Contract was developed by LetzGro Solutions. Ihor Pidruchny and Andrew Zubko were brilliant partners to work with.
 
