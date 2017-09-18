@@ -23,6 +23,4 @@ Refund Unclaimed Ether: If the reward timeframe has passed, the contract owner m
 Transfer Ownership: This method allows us to transfer contract ownership to another Ethereum address if such a requirement is necessary.
 
 
-If you or someone you know would be willing to inform us of any contract logic fallacies that we may have overlooked, please refrain from doing so in public forum, a sizable portion of teetokens will be given to charitable groups and we want their ether rebates to be processed as smoothly as possible. 
-
-Email us on we@teetoken.com
+If you or someone you know would be willing to inform us of any contract logic that we may have overlooked, please email us on we@teetoken.com
